@@ -1,6 +1,9 @@
 #Author = Danny Nawa Myunda , a student at coppoerbelt university 
 # i am a independent researcher . one world one people is my goal !!!! 
-
+ --- RECOMMENDED PARAMETERS ---
+# Starting Biomass : 450 to 850+ kg/ha (degraded to recovering Sahel land)
+# Livestock Count  : 0.1 to 0.7 animals/ha (light to moderate stocking rate)
+# These ranges reflect real Sahelian field conditions per UNCCD & FAO data. 
 
 import random
 import matplotlib.pyplot as plt
