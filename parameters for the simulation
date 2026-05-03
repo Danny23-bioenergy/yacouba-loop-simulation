@@ -2,5 +2,5 @@
 # Starting Biomass : 450 to 850+ kg/ha (degraded to recovering Sahel land)
 # Livestock Count  : 0.1 to 0.7 animals/ha (light to moderate stocking rate)
 # These ranges reflect real Sahelian field conditions per UNCCD & FAO data.
-note you can run the stimulation on the web , just go to the simulation results .ipynb file  then click open colab.
+note you can run the stimulation on the web , just go to the simulation results .ipynb file  then click open in colab.
 you will see a play button , click it and it will ask you for the starting biomass and then the livestock count , then type yes or no and wait for the results . 
