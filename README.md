@@ -25,7 +25,7 @@ disrupting the global climate.
 ## 💡 The Solution
 The Yacouba Loop creates a self-sustaining cycle of fertility:
 
-1. **Construction:** Digging Zaï pits (traditional water-harvesting basins) to trap ranoff.
+1. **Construction:** Digging Zaï pits (traditional water-harvesting basins) to trap runoff.
 2. **Soil Loading:** Adding biochar to the pits to increase water retention and nutrient storage.
 3. **Revegetation:** Planting a strategic mix of native grasses:
    - *Cenchrus biflorus* (Cram-cram) — feeds the animals
@@ -89,9 +89,9 @@ climate unity.
 
 ## 📚 References
 - Yacouba Sawadogo & Zaï History: [The Man Who Stopped the Desert](https://eu.boell.org/en/SoilAtlas-regreening-Sahara-desert)
-- •	Desertification Stats: UNCCD (United Nations Convention to Combat Desertification)
-•	Regional Impact: World Food Programme - Sahel Emergency
-•	Climate Science: Greenpeace Report on North African Desertification (2025)
+- Desertification Stats: [UNCCD](https://www.unccd.int/)
+- Regional Impact: [World Food Programme - Sahel Emergency](https://www.wfp.org/emergencies/sahel-emergency)
+- Climate Science: [Greenpeace Report on North African Desertification (2025)](https://www.greenpeace.org/mena/en/desertification-in-north-africa/)
 
 ## by Danny Nawa Muyunda , a student at Copperbelt University
 ## i am an independent researcher .
