@@ -72,7 +72,7 @@ Without the loop, 80% of the 500 simulated seasons end below 500 kg/ha — that'
 <img width="1300" height="500" alt="updated simulation pics" src="https://github.com/user-attachments/assets/a204b1c7-b7e8-4984-8ef3-f0e759b29750" />
 
 
-   ## note: The data presented above represents results from high-intensity grazing simulations. Field trials are pending the completion of the mobile pyrolysis kiln prototype.
+   **note**: The data presented above represents results from high-intensity grazing simulations. Field trials are pending the completion of the mobile pyrolysis kiln prototype.
 
 *   **Model Goal:** To determine the "breaking point" of the Yacouba Loop system.
 *   **Variable Tested:** 0.7 Grazing Pressure (High-Intensity).
