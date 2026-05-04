@@ -52,39 +52,14 @@ mixed with manure to produce biochar.
 ---
 
 ## 📊 Simulation Results
-### Managed Grazing & Biomass Results
--image 1,<img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/147e0213-6b7d-44e3-9bff-271f641a66bf" />
- 
- Managed Grazing & Biomass Results
-the chart above  visualizes the interaction between livestock and forage availability over a 5-month period.
-![Yacouba Loop Grazing Results](https://github.com)
+<img width="1300" height="500" alt="updated simulation pics" src="https://github.com/user-attachments/assets/a204b1c7-b7e8-4984-8ef3-f0e759b29750" />
+Starting conditions: 800 kg/ha biomass, 0.7 animals/ha (high grazing pressure)
+What the data shows:
+Without the Yacouba Loop the land is in freefall — steady decline every single month from 800 down to 437 kg/ha by Month 5. That's a 45% biomass loss in one rainy season under high grazing pressure. The land is heading toward degradation with no recovery signal.
+With the Yacouba Loop the system takes a hit in Month 2 — grazing pressure is real and the model doesn't hide that — but then stabilises and partially recovers, finishing at 681 kg/ha. The loop doesn't eliminate stress, it absorbs it.
+The distribution chart is the most important finding:
+Without the loop, 80% of the 500 simulated seasons end below 500 kg/ha — that's the degradation zone. With the loop, 85% of seasons end in the 500–1000 kg/ha range — stressed but stable, not collapsing.
 
-**Experimental Parameters:**
- Target Biomass: 800 kg/ha peak.
-  Grazing Pressure: 0.7 (70% livestock utilization).
-  Livestock Type:  Cattle.
-
-## Analysis:
-Despite the high grazing pressure, the ecosystem showed significant resilience. The recovery in months 4 and 5 suggests that the biochar-amended soil (delivered by our mobile kiln setup) allowed the grass to outpace the consumption rate of the cattle, reaching a peak of ~815 kg/ha.
-
-<img width="640" height="480" alt="Figure_2" src="https://github.com/user-attachments/assets/f6f8ac0c-644f-48ae-b23b-d234bf724655" />
- Livestock Management & Grazing Pressure
-To understand the biomass fluctuations, i tracked the livestock density and the resulting pressure on the pasture.
-
-![Livestock and Grazing Pressure Chart](https://github.com/user-attachments/assets/f6f8ac0c-644f-48ae-b23b-d234bf724655)
-
-**Observations:**
-  - Steady Stocking:The herd size remained consistent, fluctuating slightly between 30 and 40 cattle.
-  -  Month 3 Pressure Spike:** Grazing pressure peaked at 0.7, directly correlating with the biomass minimum observed in Figure 1.
-  -   Equilibrium:** In Months 4 and 5, despite the livestock count rising slightly, the grazing pressure dropped as the biomass recovered—likely due to the biochar's impact on grass growth rates.
-
-     ### Stress Test: High-Intensity Utilization
-Rather than following conservative managed grazing guidelines, this simulation "pushed the system to the limit" to test the resilience of biochar-amended soil.
-
-*   The Challenge:** Maintaining a consistent herd (30-40 head) at **0.7 grazing pressure**—significantly higher than standard sustainable levels.
-*   The Result:** Despite the "Month 3 Crunch" where grazing pressure peaked, the system did not collapse.
-*   The Conclusion:** The mobile pyrolysis intervention provided enough soil "buffer" to allow for 800+ kg/ha biomass recovery even under extreme livestock demand.
- Simulation Status & Validation
    ## note: The data presented above represents results from high-intensity grazing simulations. Field trials are pending the completion of the mobile pyrolysis kiln prototype.
 
 *   **Model Goal:** To determine the "breaking point" of the Yacouba Loop system.
