@@ -25,7 +25,7 @@ disrupting the global climate.
 ## 💡 The Solution
 The Yacouba Loop creates a self-sustaining cycle of fertility:
 
-1. **Construction:** Digging Zaï pits (traditional water-harvesting basins) to trap rainoff.
+1. **Construction:** Digging Zaï pits (traditional water-harvesting basins) to trap ranoff.
 2. **Soil Loading:** Adding biochar to the pits to increase water retention and nutrient storage.
 3. **Revegetation:** Planting a strategic mix of native grasses:
    - *Cenchrus biflorus* (Cram-cram) — feeds the animals
@@ -38,21 +38,6 @@ and converted to biochar using solar thermal energy.
 ---
 
 ## 🛠️ Conceptual Design: Mobile Solar Pyrolysis Kiln
-A low-cost (<$1,000) mobile kiln designed to be transported via a Toyota Land Cruiser 
-to reach remote restoration sites.
-
-- **Reactor:** 5mm thick mild steel airtight chamber.
-- **Heat Source:** 2m Mylar parabolic dish to concentrate direct solar thermal energy.
-- **Mobility:** Designed for quick loading/offloading from a trailer or vehicle bed.
-- **Feedstock:** Local organic waste (date palm fibers, rice husks, invasive shrubs) 
-mixed with manure to produce biochar.
-# note it should be loadable and unloadable for safety reasons .
-## update of design :
-Here's a clean summary for the README:
-
----
-
-## 🛠️ Mobile Solar Pyrolysis Kiln — Design Summary
 
 A low-cost, field-buildable biochar kiln designed to be transported by vehicle to remote restoration sites. No grid power, no specialist parts, no complex maintenance.
 
@@ -77,13 +62,15 @@ A 2m parabolic dish concentrates sunlight onto a steel cradle plate. The plate r
 ## this is still a conceptual design . Field trials and validation trails are pending .
 
 ## 📊 Simulation Results
-<img width="1300" height="500" alt="updated simulation pics" src="https://github.com/user-attachments/assets/a204b1c7-b7e8-4984-8ef3-f0e759b29750" />
 Starting conditions: 800 kg/ha biomass, 0.7 animals/ha (high grazing pressure)
 What the data shows:
 Without the Yacouba Loop the land is in freefall — steady decline every single month from 800 down to 437 kg/ha by Month 5. That's a 45% biomass loss in one rainy season under high grazing pressure. The land is heading toward degradation with no recovery signal.
 With the Yacouba Loop the system takes a hit in Month 2 — grazing pressure is real and the model doesn't hide that — but then stabilises and partially recovers, finishing at 681 kg/ha. The loop doesn't eliminate stress, it absorbs it.
 The distribution chart is the most important finding:
 Without the loop, 80% of the 500 simulated seasons end below 500 kg/ha — that's the degradation zone. With the loop, 85% of seasons end in the 500–1000 kg/ha range — stressed but stable, not collapsing.
+
+<img width="1300" height="500" alt="updated simulation pics" src="https://github.com/user-attachments/assets/a204b1c7-b7e8-4984-8ef3-f0e759b29750" />
+
 
    ## note: The data presented above represents results from high-intensity grazing simulations. Field trials are pending the completion of the mobile pyrolysis kiln prototype.
 
