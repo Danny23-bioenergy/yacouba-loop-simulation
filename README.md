@@ -8,7 +8,7 @@ A Python simulation of the Yacouba Loop — combining Zaï pits, biochar, and ma
 This project is a simulation modeling the synergy between traditional African wisdom 
 and modern bioenergy technology. It demonstrates how managed grazing, strategic grass 
 planting, and Zaï pits — enhanced by biochar from mobile solar-powered pyrolysis 
-kilns that can fit on a vehicle (Toyato cruiser 70 series, Nissan, Land rover   — can halt desertification and restore village ecosystems.
+kilns that can fit on a vehicle (Toyota cruiser 70 series, Nissan, Land rover   — can halt desertification and restore village ecosystems.
 
 ---
 
@@ -89,7 +89,7 @@ Without the loop, 80% of the 500 simulated seasons end below 500 kg/ha — that'
 
 *   **Model Goal:** To determine the "breaking point" of the Yacouba Loop system.
 *   **Variable Tested:** 0.7 Grazing Pressure (High-Intensity).
-*   **Next Phase:** Mounting the kiln to the Land Cruiser 79 chassis for real-world validation in [Insert Region, e.g., Sahel/Kalahari].
+*   **Next Phase:** Mounting the kiln to the Land Cruiser 79 chassis for real-world validation in [any  Region e.g., Sahel/Kalahari].
 
 ## 🌍 Vision: One World, One People
 Desertification is a global crisis that ignores borders. This project is built on the 
@@ -106,9 +106,6 @@ climate unity.
 •	Regional Impact: World Food Programme - Sahel Emergency
 •	Climate Science: Greenpeace Report on North African Desertification (2025)
 
-- Desertification Stats: [UNCCD](https://www.unccd.int/)
-- Regional Impact: [World Food Programme - Sahel Emergency](https://www.wfp.org/emergencies/sahel-emergency)
-- Climate Science: [Greenpeace Report on North African Desertification (2025)](https://www.greenpeace.org/mena/en/desertification-in-north-africa/)
 ## by Danny Nawa Muyunda , a student at Copperbelt University
 ## i am an independent researcher .
 ## 📬 Get in Touch
