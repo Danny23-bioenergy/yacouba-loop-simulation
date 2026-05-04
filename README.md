@@ -47,9 +47,34 @@ to reach remote restoration sites.
 - **Feedstock:** Local organic waste (date palm fibers, rice husks, invasive shrubs) 
 mixed with manure to produce biochar.
 # note it should be loadable and unloadable for safety reasons .
-
+## update of design :
+Here's a clean summary for the README:
 
 ---
+
+## 🛠️ Mobile Solar Pyrolysis Kiln — Design Summary
+
+A low-cost, field-buildable biochar kiln designed to be transported by vehicle to remote restoration sites. No grid power, no specialist parts, no complex maintenance.
+
+**How it works:**
+A 2m parabolic dish concentrates sunlight onto a steel cradle plate. The plate radiates heat up into a sealed rotating drum filled with biomass. With no oxygen inside the drum, the biomass converts to biochar instead of burning. Gases produced during the process are burned off immediately at a burner ring below the drum — no storage, no pipes, no seals.
+
+**Key components:**
+- 2m parabolic dish — satellite dish frame or fabricated steel ribs, covered in reflective aluminium sheet
+- 50–60 litre steel drum — 3mm mild steel, airtight, with internal mixing fins
+- Cradle plate — 6mm steel plate, absorbs solar heat and radiates it to the drum
+- Rotation drive — 12V DC wiper motor, chain and sprocket, 3–5 RPM
+- Burner ring — perforated steel pipe ring, burns syngas immediately at source
+- Power — single 12V battery charged by a 20W solar panel
+
+**Field specs:**
+- Batch capacity: 20kg dry biomass
+- Run time: 3–4 hours per batch
+- Tracking: manual, adjusted 3× per day
+- Fabrication cost: under $500 in local materials
+- Built by: any competent welder, no machining required
+- Transport: fits on a Toyota Land Cruiser 70 series flatbed
+## this is still a conceptual design . Field trials and validation trails are pending .
 
 ## 📊 Simulation Results
 <img width="1300" height="500" alt="updated simulation pics" src="https://github.com/user-attachments/assets/a204b1c7-b7e8-4984-8ef3-f0e759b29750" />
